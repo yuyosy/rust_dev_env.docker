@@ -1,0 +1,11 @@
+{	
+	"name": "${localWorkspaceFolderBasename}",
+	"context": "..",
+	"dockerFile": "../Dockerfile",
+	"settings": {
+	},
+	"extensions": [
+		"rust-lang.rust",
+		"vadimcn.vscode-lldb"
+	]
+}
