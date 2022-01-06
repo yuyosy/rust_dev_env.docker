@@ -14,7 +14,7 @@
             ],
             "terminal": "integrated",
             "preLaunchTask": "Build single Rust file",
-            "program": "${workspaceRoot}/debug/${fileBasenameNoExtension}",
+            "program": "${workspaceRoot}/target/debug/${fileBasenameNoExtension}",
             "args": [],
             "cwd": "${workspaceFolder}"
         }

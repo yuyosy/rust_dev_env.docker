@@ -7,7 +7,7 @@
             "command": "rustc",
             "args": [
                 "--out-dir",
-                "${workspaceRoot}/debug/",
+                "${workspaceRoot}/target/debug/",
                 "-C",
                 "debug_assertions=yes",
                 "-g",
